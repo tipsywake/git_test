@@ -1,1 +1,2 @@
 在idea中使用git
+在idea中从GitHub上clone项目
